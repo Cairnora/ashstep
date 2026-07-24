@@ -22,7 +22,7 @@
     document.title =
       next === "ko"
         ? root.dataset.titleKo || "AKORA | 아코라 유한회사"
-        : root.dataset.titleEn || "AKORA | Digital Product Company";
+        : root.dataset.titleEn || "AKORA | Digital Service Company";
 
     try {
       window.localStorage.setItem(storageKey, next);
