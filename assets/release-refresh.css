@@ -1,0 +1,34 @@
+/* Release-state adjustments layered over the generated marketing-site bundle. */
+#app > .site-footer {
+  display: none;
+}
+
+.topbar [data-track-id='topbar_product_home'] {
+  display: none;
+}
+
+.topbar [data-track-id='topbar_launch_email'],
+.topbar [data-track-id='nav_launch'],
+.hero-kicker-row,
+.hero-form,
+.launch-panel,
+.launch-shell,
+[data-track-id='app_store_status'],
+[data-track-id='waitlist_fit'] {
+  display: none !important;
+}
+
+.faq-shell {
+  margin-top: 0;
+}
+
+.external-legal-footer .footer-card a {
+  color: inherit;
+  text-underline-offset: 0.2em;
+}
+
+@media (max-width: 720px) {
+  .topbar-inner {
+    grid-template-columns: 1fr;
+  }
+}
