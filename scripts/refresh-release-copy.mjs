@@ -7,10 +7,10 @@ const productFiles = [
   'ashstep/index.html',
   'product/quit-smoking/index.html',
   'quit-smoking/index.html',
-  'assets/main-dyH3XXxI.js',
+  'assets/main-71dc24ec.js',
 ];
 
-const rootFiles = ['index.html', 'assets/root-qBk4zj17.js'];
+const rootFiles = ['index.html', 'assets/root-f845c0de.js'];
 
 const productReplacements = [
   [
