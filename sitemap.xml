@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ashstep.com/</loc>
+  </url>
+  <url>
+    <loc>https://ashstep.com/apps/quit-smoking/</loc>
+  </url>
+  <url>
+    <loc>https://ashstep.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/privacy/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/ko/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/privacy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/privacy/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/terms/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/ko/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/terms/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/support/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/support/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/ko/support/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/support/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/delete-account/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/delete-account/" />
+  </url>
+  <url>
+    <loc>https://ashstep.com/ko/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ashstep.com/delete-account/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://ashstep.com/ko/delete-account/" />
+  </url>
+</urlset>
